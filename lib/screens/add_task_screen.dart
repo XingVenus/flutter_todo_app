@@ -3,6 +3,8 @@ import 'package:provider/provider.dart';
 import '../provider/task_provider.dart';
 
 class AddTaskScreen extends StatelessWidget {
+  const AddTaskScreen({super.key});
+
   @override
   Widget build(BuildContext context) {
     String newTaskTitle = '';
