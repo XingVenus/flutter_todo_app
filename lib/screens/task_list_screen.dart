@@ -5,6 +5,8 @@ import '../widgets/task_list.dart';
 import 'add_task_screen.dart';
 
 class TaskListScreen extends StatelessWidget {
+  const TaskListScreen({super.key});
+
   @override
   Widget build(BuildContext context) {
     return Scaffold(
