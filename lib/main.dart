@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 import 'provider/task_provider.dart';
 import 'screens/task_list_screen.dart';
-
+//git rebase --abort 
 /// The main entry point for the app.
 ///
 /// This function is called when the app is launched, and it's where the
