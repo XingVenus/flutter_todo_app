@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 import 'provider/task_provider.dart';
 import 'screens/task_list_screen.dart';
+//commit 1
 //git rebase --abort 
 /// The main entry point for the app.
 ///
